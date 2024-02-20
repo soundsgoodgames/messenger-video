@@ -30,3 +30,6 @@ C:\Users\goods\messenger-clone\app\conversations\components\GroupChatModal.tsx
 MongoDB
 Google Cloud - 로그인용, 없어도 될듯
 Cloudinary - 이미지 업로드용, 없어도 될듯
+Pusher
+Github
+Vercel
