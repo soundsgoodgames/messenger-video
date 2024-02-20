@@ -1,0 +1,32 @@
+불필요한 기능
+
+1. Cloudiary
+next.config.js
+'res.cloudinary.com'
+
+.env
+NEXT_PUBLIC_CLOUDINARY_CLOUD_NAME=ddyqxfnk8
+
+C:\Users\goods\messenger-clone\app\conversations\[conversationId]\components\Form.tsx
+<CldUploadButton>
+
+2. Seen by
+C:\Users\goods\messenger-clone\app\api\conversations\[conversationId]\seen
+
+3. Profile Drawer
+C:\Users\goods\messenger-clone\app\conversations\[conversationId]\components\ProfileDrawer.tsx
+
+C:\Users\goods\messenger-clone\app\components\modals\Modal.tsx
+
+C:\Users\goods\messenger-clone\app\conversations\[conversationId]\components\ConfirmModal.tsx
+
+C:\Users\goods\messenger-clone\app\components\sidebar\SettingsModal.tsx
+
+4. 친구 추가로 그룹챗
+C:\Users\goods\messenger-clone\app\conversations\components\GroupChatModal.tsx
+
+
+0. 결제 확인
+MongoDB
+Google Cloud - 로그인용, 없어도 될듯
+Cloudinary - 이미지 업로드용, 없어도 될듯
